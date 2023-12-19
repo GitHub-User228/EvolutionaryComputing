@@ -11,3 +11,9 @@ Best fit value must exceed 9.5 (maximum possible value is 10)
 - problem dimension = 100
 - population size <= 100
 - number of iterations <= 5000
+
+# Laboratory №2 Eight Queens Problem solution via DEAP framework
+## Assignment
+
+Task is to solve Eight Queens Problem using DEAP framework.
+A pattern of the first lab can be used.
